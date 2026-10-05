@@ -1,8 +1,8 @@
-# EasyDown — Nintendo Switch Standalone Payload (.bin)
+# EasyDown — Nintendo Switch
 
 **Yazar:** Pasha Bey  
 **Tip:** Standalone Payload (`.bin`) — RCM & Hekate Uyumlu  
-**Sürüm:** 1.0.0  
+**Sürüm:** 1.0.0 Beta
 
 ---
 
